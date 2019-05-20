@@ -5,6 +5,8 @@ Copyright (C) 2019 David Klorig
 Author: David Klorig
 Last modification: 5/20/2019
 
+Example Manifest and Data are avalible here:
+https://www.dropbox.com/sh/h1av9mz5bkp4ogf/AABtMa90tR_lL_4OT1BRmKxLa?dl=1
 
 Required version of MATLAB and toolboxes
 
