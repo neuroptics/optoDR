@@ -1,5 +1,5 @@
 # optoDR
-A collection of scripts and functions for performing and analyzing optogenetic dose-response curve experiments, written in MATLAB.
+A collection of simple scripts for performing and analyzing optogenetic dose-response curve experiments, written in MATLAB.
 
 Copyright (C) 2019 David Klorig
 Author: David Klorig
